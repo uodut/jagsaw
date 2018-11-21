@@ -16,7 +16,6 @@ package linklist;
  * Since the list has two middle nodes with values 3 and 4, we return the second one.
  **/
 public class MiddleNode {
-    //this is
 
     /**
      * 链表的缺点是不能根据下标遍历，那么就依赖数组的特点。把每个节点都放到数组里面。使用数组的下表取中间值
